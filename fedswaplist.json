@@ -1,0 +1,96 @@
+{
+  "name": "Fedswaplist",
+  "timestamp": "2020-06-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "Fedswap",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0xfc8e8eec4423c0260d18f34685acff832dec63f8",
+      "chainId": 1,
+      "name": "Fedoragold Coin",
+      "symbol": "Bfed",
+      "decimals": 8
+    },
+	{
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+   
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+   
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    
+    
+    {
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "chainId": 1,
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18
+    },
+    
+    {
+      "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+      "chainId": 3,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+	
+	 
+	
+    {
+      "address": "0x52eb5116cb75744dc4c9c86b702fce739b6d991b",
+      "chainId": 3,
+      "name": "Bitswap Token",
+      "symbol": "BBTC",
+      "decimals": 18
+    },
+	 {
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "chainId": 3,
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18
+    },
+     {
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "chainId": 3,
+      "name": "Graph Token",
+      "symbol": "GRT",
+      "decimals": 18
+    },
+    
+    
+    {
+      "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
+      "chainId": 42,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18
+    }
+  ]
+}
